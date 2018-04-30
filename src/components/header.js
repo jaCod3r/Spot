@@ -11,7 +11,7 @@ class Header extends Component {
           </NavbarBrand>
           <Nav className="ml-2" navbar>
             <NavItem>
-              <NavLink href="">Vade</NavLink>
+              <NavLink href="/vade">Vade</NavLink>
             </NavItem>
             <NavItem>
               <NavLink href="">Scan</NavLink>
