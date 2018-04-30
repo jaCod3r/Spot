@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 import { Card, CardBody, CardImg, CardTitle, CardText } from 'reactstrap';
-import Header from './header';
+// import Header from './header';
 class Vade extends Component {
   render() {
     return (
       <div>
-        <Header />
+        {/* <Header /> */}
         <Card>
           <CardImg src="http://www.misucell.com/data/out/6/IMG_117203.jpg" alt="Card image cap" />
           <CardBody>
