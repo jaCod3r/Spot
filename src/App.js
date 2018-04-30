@@ -9,7 +9,7 @@ class App extends Component {
       <BrowserRouter>
         <div>
           <Route exact path="/" component={Landing} />
-          <Route path="/vade" component={Vade} />
+          <Route path="dazzling-bell-befcc6.netlify.com/vade" component={Vade} />
         </div>
       </BrowserRouter>
     );
